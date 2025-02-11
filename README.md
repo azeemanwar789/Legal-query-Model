@@ -1,4 +1,6 @@
-**#Usage of LLM :-**
+**Usage of LLM :-**
+
+
 Initially, the project aimed to use a structured and annotated legal dataset for offense classification. However, we decided to transition to a Large Language Model (LLM) due to the following reasons:
 
 Insufficient Dataset Coverage
