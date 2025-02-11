@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 import requests  # For making API calls to Hugging Face
 
 # Set Hugging Face API Key for Authentication
-HUGGING_FACE_API_KEY = "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"  # Replace with your API key
+HUGGING_FACE_API_KEY = "..."  # Replace with your API key
 HUGGING_FACE_API_URL = "https://api-inference.huggingface.co/models/gpt2"  # You can replace "gpt2" with other models
 
 # Streamlit Page Configuration
